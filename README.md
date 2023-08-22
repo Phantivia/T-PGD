@@ -4,6 +4,9 @@ Code and data of the Findings of ACL 2023 [paper](https://arxiv.org/abs/2110.153
 # How to run
 Please check T-PGD/LaunchTPGD.ipynb to see about the details of hyperparameters and we have all the commands to run our main experiments there.
 
+# Set up Metric
+Before running the experiments, please download the USE-4 model from https://tfhub.dev/google/universal-sentence-encoder/4 and set the path variable in utils/Metric.py
+
 
 # Requirements
 The main packages we used in this project are listed below:
