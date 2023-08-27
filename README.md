@@ -19,3 +19,22 @@ tensorflow_hub==0.13.0
 language-tool-python==2.7.1
 ```
 
+
+# Citation
+Please kindly cite our paper:
+
+```
+@inproceedings{yuan-etal-2023-bridge,
+    title = "Bridge the Gap Between {CV} and {NLP}! A Gradient-based Textual Adversarial Attack Framework",
+    author = "Yuan, Lifan  and
+      Zhang, YiChi  and
+      Chen, Yangyi  and
+      Wei, Wei",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    year = "2023",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.446"
+}
+```
+
+
